@@ -1,0 +1,14 @@
+/Users/suhedayayla/myConsoleApp/bin/Debug/net8.0/myConsoleApp
+/Users/suhedayayla/myConsoleApp/bin/Debug/net8.0/myConsoleApp.deps.json
+/Users/suhedayayla/myConsoleApp/bin/Debug/net8.0/myConsoleApp.runtimeconfig.json
+/Users/suhedayayla/myConsoleApp/bin/Debug/net8.0/myConsoleApp.dll
+/Users/suhedayayla/myConsoleApp/bin/Debug/net8.0/myConsoleApp.pdb
+/Users/suhedayayla/myConsoleApp/obj/Debug/net8.0/myConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/suhedayayla/myConsoleApp/obj/Debug/net8.0/myConsoleApp.AssemblyInfoInputs.cache
+/Users/suhedayayla/myConsoleApp/obj/Debug/net8.0/myConsoleApp.AssemblyInfo.cs
+/Users/suhedayayla/myConsoleApp/obj/Debug/net8.0/myConsoleApp.csproj.CoreCompileInputs.cache
+/Users/suhedayayla/myConsoleApp/obj/Debug/net8.0/myConsoleApp.dll
+/Users/suhedayayla/myConsoleApp/obj/Debug/net8.0/refint/myConsoleApp.dll
+/Users/suhedayayla/myConsoleApp/obj/Debug/net8.0/myConsoleApp.pdb
+/Users/suhedayayla/myConsoleApp/obj/Debug/net8.0/myConsoleApp.genruntimeconfig.cache
+/Users/suhedayayla/myConsoleApp/obj/Debug/net8.0/ref/myConsoleApp.dll
